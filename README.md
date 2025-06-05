@@ -1,5 +1,5 @@
 # OpenConvoy: Universal Platform for Real-World Testing of Cooperative Driving Systems
-> Pre-print available on [Arxiv](https://arxiv.org/abs/2405.18600)
+> Available on [IEEE Xplore]([https://arxiv.org/abs/2405.18600](https://ieeexplore.ieee.org/document/10757928))
 
 [Owen Burns](https://owenburns.co), [Hossein Maghsoumi](https://scholar.google.com/citations?user=z-xSxX0AAAAJ&hl=en), [Israel Charles](https://www.linkedin.com/in/israel-charles/), [Yasser Fallah](https://www.ece.ucf.edu/person/yaser-p-fallah/)
 
